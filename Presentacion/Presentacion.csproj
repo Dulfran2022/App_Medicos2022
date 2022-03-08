@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FrmMedicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMedicos.Designer.cs">
+      <DependentUpon>FrmMedicos.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmPrueba.cs">
       <SubType>Form</SubType>
     </Compile>
