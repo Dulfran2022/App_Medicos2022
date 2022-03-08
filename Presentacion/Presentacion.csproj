@@ -46,23 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmCitas.cs">
+    <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmCitas.Designer.cs">
-      <DependentUpon>FrmCitas.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FrmMedicos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmMedicos.Designer.cs">
-      <DependentUpon>FrmMedicos.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FrmPacientes.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmPacientes.Designer.cs">
-      <DependentUpon>FrmPacientes.cs</DependentUpon>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
