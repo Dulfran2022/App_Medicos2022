@@ -16,5 +16,10 @@ namespace Presentacion
         {
             InitializeComponent();
         }
+
+        private void FrmMedicos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
